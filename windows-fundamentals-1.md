@@ -106,7 +106,7 @@
     - Example: In universities, students are usually standard users — they can’t open certain settings or even turn off the computer in some cases. Admins can monitor and control what standard users do.
 - **How to see other users**:
     - Search for “other users” in Windows.
-    - Or run `lusrmgr.msc` in the Run command. This will show all users and groups and a brief idea of what they can do.
+    - Or run `lusrmgr.msc`(works on pro/enterprise) in the Run command. This will show all users and groups and a brief idea of what they can do.
 - **Things every user has in common**:
     - Desktop
     - Downloads
